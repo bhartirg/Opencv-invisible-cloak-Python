@@ -1,0 +1,1 @@
+This project creates a Harry Potter–style invisibility effect using computer vision. It captures the background, detects a chosen cloak color (red/blue/green), and replaces it with the background — making the cloak wearer appear invisible in real-time. Built with OpenCV and NumPy.
